@@ -1,1 +1,1 @@
-# yocto
+# [yocto](https://docs.google.com/presentation/d/1iYxPSIvPu9uu74GcUu8W-0lS4Rg2BdU1/edit?usp=drive_web&ouid=106314165107786636522&rtpof=true)https://docs.google.com/presentation/d/1iYxPSIvPu9uu74GcUu8W-0lS4Rg2BdU1/edit?usp=drive_web&ouid=106314165107786636522&rtpof=true
